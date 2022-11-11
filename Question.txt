@@ -1,0 +1,6 @@
+1. Perbedaan Lombok AllargsConstructor dan autowired
+2. responseBody pada GenericController
+3. @SuppressWarnings({ "unchecked", "rawtypes" })
+4. how to create sample data
+5. data dummy di project, sample data loader
+6. 
